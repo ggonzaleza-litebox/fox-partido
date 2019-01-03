@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { FoxPartidoModule } from './app/modules/fox-partido/fox-partido.module';
+export { FoxPartidoComponent } from './app/modules/fox-partido/fox-partido.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2ZveC1wYXJ0aWRvLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLGdCQUFnQixFQUFFLE1BQU0sOENBQThDLENBQUE7QUFDL0UsT0FBTyxFQUFFLG1CQUFtQixFQUFFLE1BQU0saURBQWlELENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBGb3hQYXJ0aWRvTW9kdWxlIH0gZnJvbSAnLi9hcHAvbW9kdWxlcy9mb3gtcGFydGlkby9mb3gtcGFydGlkby5tb2R1bGUnXG5leHBvcnQgeyBGb3hQYXJ0aWRvQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAvbW9kdWxlcy9mb3gtcGFydGlkby9mb3gtcGFydGlkby5jb21wb25lbnQnO1xuIl19
